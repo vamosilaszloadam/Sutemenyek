@@ -14,3 +14,19 @@ body{
   font-weight: 400;
   font-style: normal;
 }
+.container{
+  width: 600px;
+  height: 600px;
+  background-color: bisque;
+  margin: 200px auto;
+  position: relative;
+}
+
+.box{
+  height: 50px; 
+  background: pink;  
+  position:sticky;  
+  top: 0px;
+  left:0px;
+  right:0;
+}
