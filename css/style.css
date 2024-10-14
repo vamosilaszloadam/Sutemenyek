@@ -86,3 +86,11 @@ body{
   color: white;
   font-size: 1rem;
 }
+
+.hidden{
+  display: none;
+}
+
+/* input[type="checkbox"]:checked+label .cookie-accept{
+  display: none;
+} */
